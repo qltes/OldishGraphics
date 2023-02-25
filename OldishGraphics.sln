@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldishGraphics", "OldishGraphics\OldishGraphics.csproj", "{419F698F-A02E-455B-A672-D402DF29ED2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{419F698F-A02E-455B-A672-D402DF29ED2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419F698F-A02E-455B-A672-D402DF29ED2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419F698F-A02E-455B-A672-D402DF29ED2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419F698F-A02E-455B-A672-D402DF29ED2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {724BB639-7CA1-45CF-847B-2EA434775016}
+	EndGlobalSection
+EndGlobal
